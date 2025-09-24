@@ -20,3 +20,5 @@
 - **CSS** → Styling और animation  
 - **JavaScript** → Slider functionality और auto slideshow  
 
+## Live Link
+https://code-withharsh.github.io/Image-Slider/
